@@ -1,0 +1,6 @@
+print (1+2)
+print(7%4)
+print (7/4)
+print (int(7/4))
+print(float(4/2))
+print (2**3)
