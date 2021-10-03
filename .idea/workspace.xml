@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c9e39d-2843-4907-90bc-76d27a33755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/Boolean_Basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/Dictionary_Basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/Sets_Basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/Tuples_Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output_Files/accessing_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output_Files/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output_Files/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZxstlWZlTS9RQiHA3l1PTESiPv" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -42,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Boolean_Basic">
+  <component name="RunManager" selected="Python.accessing_files">
     <configuration name="Boolean_Basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +78,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/Dictionary_Basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="List_Advanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Source Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/List_Advanced.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +128,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="accessing_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Source Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output_Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Input_Output_Files/accessing_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.accessing_files" />
         <item itemvalue="Python.Boolean_Basic" />
         <item itemvalue="Python.Sets_Basic" />
         <item itemvalue="Python.Tuples_Basic" />
         <item itemvalue="Python.Dictionary_Basic" />
-        <item itemvalue="Python.List_Advanced" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
