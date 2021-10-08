@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c9e39d-2843-4907-90bc-76d27a33755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/CompaRison_Logical_Operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Comparison_And_Logical_Operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Comparison_And_Logical_Operators/logical_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/break_continue_pass_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/for_loop_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/if_elif_else_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/useful_operators_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/user_input_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/while_loop_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/list_comprehension_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Python_Bootcamp/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/helloworld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.user_input_basic">
+  <component name="RunManager" selected="Python.list_comprehension_example">
     <configuration name="break_continue_pass_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_loop_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_comprehension_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/for_loop_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/list_comprehension_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_comprehension_example" />
         <item itemvalue="Python.user_input_basic" />
         <item itemvalue="Python.useful_operators_practice" />
         <item itemvalue="Python.break_continue_pass_practice" />
         <item itemvalue="Python.while_loop_practice" />
-        <item itemvalue="Python.for_loop_practice" />
       </list>
     </recent_temporary>
   </component>
