@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c9e39d-2843-4907-90bc-76d27a33755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/args_and_kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/convertingListToString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/BalancedBracket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/CenturyFinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumOfOccurancesInString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/ReverseNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/RollingAddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/SortingTwoArraysInPlace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/IsPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/UniqueElementsinaList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/almostThere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/animal_crackers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/blackJack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/countPrimes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/find33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/isPanagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/lesser_of_two_evens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/makes_twenty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/masterYoda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/oldMacDonald.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/paperDoll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/spyGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/summerOf69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Lamba_Expression_Map_and_Filter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Lamba_Expression_Map_and_Filter/filterFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Lamba_Expression_Map_and_Filter/lambdaExpression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Lamba_Expression_Map_and_Filter/map_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterDir="false" />
@@ -44,8 +69,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.convertingListToString">
-    <configuration name="args_and_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.isPanagram">
+    <configuration name="BalancedBracket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/args_and_kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/BalancedBracket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="convertingListToString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="IsPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_and_DataStructures_Basic/convertingListToString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/IsPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interactions_between_python_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NumOfOccurancesInString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +120,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/interactions_between_python_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumOfOccurancesInString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UniqueElementsinaList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Source Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/UniqueElementsinaList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="isPanagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Source Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/Functions_Practice/isPanagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,55 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuples_unpacking_using_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Source Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/tuples_unpacking_using_functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="useful_operators_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Source Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Loops_And_Control_Statements/useful_operators_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.convertingListToString" />
-        <item itemvalue="Python.useful_operators_practice" />
-        <item itemvalue="Python.args_and_kwargs" />
-        <item itemvalue="Python.interactions_between_python_function" />
-        <item itemvalue="Python.tuples_unpacking_using_functions" />
+        <item itemvalue="Python.isPanagram" />
+        <item itemvalue="Python.UniqueElementsinaList" />
+        <item itemvalue="Python.IsPalindrome" />
+        <item itemvalue="Python.BalancedBracket" />
+        <item itemvalue="Python.NumOfOccurancesInString" />
       </list>
     </recent_temporary>
   </component>
