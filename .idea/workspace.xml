@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c9e39d-2843-4907-90bc-76d27a33755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/IsPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NeedInHaystack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/PowerOfTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/QuickSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/Remove_duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/SearchInsertPosition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/StringWordCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumberCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/AcceptingUserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/MissingNumberInSeries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/SimpleUserInteraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/TicTacToe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/ValidatingUserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/07-Statements Assessment Test-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/07-Statements Assessment Test-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/07-Statements Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/07-Statements Assessment Test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/SortingTwoArraysInPlace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/SortingTwoArraysInPlace.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.StringWordCount">
-    <configuration name="PowerOfTwo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TicTacToe">
+    <configuration name="MissingNumberInSeries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/PowerOfTwo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/MissingNumberInSeries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberCount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumberCount.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Remove_duplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleUserInteraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/Remove_duplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/SimpleUserInteraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SortingTwoArraysInPlace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/SortingTwoArraysInPlace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/TicTacToe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringWordCount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidatingUserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/StringWordCount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/ValidatingUserInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.StringWordCount" />
-        <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.PowerOfTwo" />
-        <item itemvalue="Python.Remove_duplicate" />
-        <item itemvalue="Python.SortingTwoArraysInPlace" />
+        <item itemvalue="Python.TicTacToe" />
+        <item itemvalue="Python.NumberCount" />
+        <item itemvalue="Python.MissingNumberInSeries" />
+        <item itemvalue="Python.SimpleUserInteraction" />
+        <item itemvalue="Python.ValidatingUserInput" />
       </list>
     </recent_temporary>
   </component>
