@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c9e39d-2843-4907-90bc-76d27a33755f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumberCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/AcceptingUserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/MissingNumberInSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/SimpleUserInteraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/ValidatingUserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/BankAccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/ClassAndObjectBasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/ClassObjectwithMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/DistanceAndSlope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/InheritenceBasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/PolymorphismBasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/SpecialMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Udemy_Course_File/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterDir="false" />
@@ -49,8 +51,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.TicTacToe">
-    <configuration name="MissingNumberInSeries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BankAccount">
+    <configuration name="BankAccount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/MissingNumberInSeries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/BankAccount.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NumberCount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassAndObjectBasics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/FacebookPractice/NumberCount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/ClassAndObjectBasics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SimpleUserInteraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DistanceAndSlope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/SimpleUserInteraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/DistanceAndSlope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TicTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SpecialMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Source Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,32 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/TicTacToe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ValidatingUserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Source Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/MilestoneProject1/ValidatingUserInput.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Object_Oriented_Programming/SpecialMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,13 +157,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tuples_unpacking_using_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Source Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy_Python_Bootcamp/Methods_And_Functions/tuples_unpacking_using_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TicTacToe" />
-        <item itemvalue="Python.NumberCount" />
-        <item itemvalue="Python.MissingNumberInSeries" />
-        <item itemvalue="Python.SimpleUserInteraction" />
-        <item itemvalue="Python.ValidatingUserInput" />
+        <item itemvalue="Python.BankAccount" />
+        <item itemvalue="Python.DistanceAndSlope" />
+        <item itemvalue="Python.tuples_unpacking_using_functions" />
+        <item itemvalue="Python.SpecialMethods" />
+        <item itemvalue="Python.ClassAndObjectBasics" />
       </list>
     </recent_temporary>
   </component>
