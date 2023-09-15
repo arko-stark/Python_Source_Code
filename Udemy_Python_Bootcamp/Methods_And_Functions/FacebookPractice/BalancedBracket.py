@@ -17,7 +17,7 @@ def is_balanced (myBracketString):
         return True
     else :
         return False
-mystring = ')'
+mystring = '{()}'
 print(is_balanced(mystring))
 
 
